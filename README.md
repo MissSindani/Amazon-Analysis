@@ -4,7 +4,7 @@
 This project provides a detailed analysis of Amazon data to uncover trends and insights.
 
 
-![Logo](https://storage.googleapis.com/kaggle-datasets-images/4799696/8122543/78cf09bc8169acd301488e5bb170fc24/dataset-cover.png?t=2024-04-15-06-28-28)
+![Logo](https://github.com/MissSindani/Amazon-Analysis/blob/main/dataset-cover%20(1).png?raw=true)
 
 
 ## Project Overview
